@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="createAccount">Crear una cuenta nueva</string>
+
+
+    <string name="username">Usuario</string>
+    <string name="password">Password</string>
+    <string name="login">Iniciar Session</string>
+
+
+    <string name="employeeName">Nombre:</string>
+    <string name="employee_description">Descripcion:</string>
+    <string name="employee_role">Rol:</string>
+    <string name="employee_age">Edad:</string>
+    <string name="employee_department">Departamento:</string>
+    <string name="employee_boss">Jefe:</string>
+
+    <string name="employee_user">Usuario:</string>
+    <string name="employee_pass">Password:</string>
+    <string name="employee_country">Pais:</string>
+
+    <string-array name="country_arrays">
+        <item>El Salvador</item>
+        <item>Colombia</item>
+        <item>Guatemala</item>
+    </string-array>
+
+    <string name="save">Guardar</string>
+
+
+
+</resources>
